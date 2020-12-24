@@ -1,6 +1,6 @@
 # Python忍者養成班
 
-<img src="images/ninja.jpg" width=25% height=25%>
+<img src="images/ninja.jpg" width=50% height=50%>
 
 ## 適合對象：
 
@@ -14,6 +14,10 @@
 
 [點此直接使用Trinket寫程式](https://trinket.io/python)
 
+[Turtle基本指令](basics.md)
+
+[程式挑戰](challenges.md)
+
 ### 利用turtle套件學習底下概念：
 
 * 程式設計基本概念
@@ -22,9 +26,13 @@
 * 函式
 * 模組
 * 條件式
+* 遞迴函式
+
+
 
 參考資料：
 
+* [Turtle graphics](https://docs.python.org/3/library/turtle.html)
 * [Python with Turtles](https://hourofpython.trinket.io/a-visual-introduction-to-python)
 * [Python with Turtles 中文簡體](https://hourofpython.trinket.io/ke3-shi4-hua4-python-jian3-jie4#/huan1-ying2/bian1-cheng2-yi1-xiao3-shi2)
 * [RealPython - The Beginner's Guide to Python Turtle](https://realpython.com/beginners-guide-python-turtle)
